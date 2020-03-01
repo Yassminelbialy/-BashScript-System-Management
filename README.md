@@ -29,13 +29,19 @@ This Repo About Linux System Management Using Bashscript And RHSA 1,2 Commands
 2- Display information about about specific process
 3- Kill Specific process using this process id 
 4- change priority of a process based on its nice value
+</pre>
+
 
 ### 2- Services
+<pre>
 1- Display all running services
 2- Display All stoped and failed services
 3- Mange a specific servuce
+</pre>
+
 
 ### 3- User
+<pre>
 1- List all users in the system
 2- Add new User
 3- Modify user setting 
